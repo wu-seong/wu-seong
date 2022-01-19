@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    background-color: black;
+    height:100vh;
+}
+.target{
+    position:absolute;
+    display: block;
+}
+.coordinate{
+    color:white;
+    position:absolute;
+}
+.line{
+    position: absolute;
+}
+.row{width:100%; border-bottom:dashed 2px white; }
+.column{height:100%; border-right:dashed 2px white;}
