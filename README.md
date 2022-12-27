@@ -14,6 +14,12 @@
 ### Blog
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)]()
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Firebase&logoColor=white)](https://velog.io/@jws1228)
+
+### baekjoon
+<a href="https://solved.ac/profile/jws1228">
+  <img src = "https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/boj-og.png" width = "100" height = "60">
+</a>
+
 ### Github Stat
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu-seong&show_icons=true&theme=radical)
