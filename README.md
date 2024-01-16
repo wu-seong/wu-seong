@@ -1,6 +1,6 @@
 
 # Introduction 
-* 👋 Hi, my name is chang-wu-seong. I'm 24 years old and, a sophomore majoring in computer engineering at Myongji University. 
+* 👋 Hi, my name is chang-wu-seong. I'm 25 years old and, a sophomore majoring in computer engineering at Myongji University. 
 * 👀 I am interested in server development. So I studied object-oriented design, database, network and cloud environment, and security.
 * 🌱 Through many server development experiences, I want to gain know-how in server operation while encountering various situations.
 
