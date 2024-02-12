@@ -23,9 +23,6 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://thisismynote.tistory.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Firebase&logoColor=white)](https://velog.io/@jws1228)
 
-## baekjoon
-<a href="https://solved.ac/profile/jws1228">
-  <img src = "https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/boj-og.png" width = "100" height = "60">
-</a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/jws1228)
 
 
