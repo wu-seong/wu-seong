@@ -23,6 +23,9 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://thisismynote.tistory.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Firebase&logoColor=white)](https://velog.io/@jws1228)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/jws1228)
+## Beakjoon solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jws1228)](https://solved.ac/jws1228)
+
 
 
