@@ -20,9 +20,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoJavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  
 ## Blog
-![기술 블로그](https://wu-seong.github.io/)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://thisismynote.tistory.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Firebase&logoColor=white)](https://velog.io/@jws1228)
+[기술 블로그](https://wu-seong.github.io/)
 
 ## Beakjoon solved.ac
 [![Solved.ac
