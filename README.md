@@ -1,8 +1,8 @@
 
 # Introduction 
-* 👋 Hi, my name is chang-wu-seong. I'm 25 years old and, a senior majoring in computer engineering at Myongji University. 
-* 👀 I am interested in server development. So I studied object-oriented design, database, network and cloud environment, and security.
-* 🌱 Through many server development experiences, I want to gain know-how in server operation while encountering various situations.
+* 👋 Hi, my name is Chang-Wu-Seong. I'm 26 years old and have graduated with a degree in computer engineering from Myongji University.
+* 👀 I mainly focus on server development and have a strong interest in databases and ORM technologies. Recently, I’ve been exploring infrastructure setup for secure operations.
+* 🌱 Rather than growing alone, I aim to be a developer who shares knowledge and collaborates with others. To achieve this, I also run a blog where I document and share my learnings.
 
 ## **Stack**
 
