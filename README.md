@@ -1,6 +1,6 @@
 
 # Introduction 
-* 👋 Hi, my name is Chang-Wu-Seong. I'm 26 years old and have graduated with a degree in computer engineering from Myongji University.
+* 👋 Hi, my name is Chang-Wu-Seong. I'm 27 years old and have graduated with a degree in computer engineering from Myongji University.
 * 👀 I mainly focus on server development and have a strong interest in databases and ORM technologies. Recently, I’ve been exploring infrastructure setup for secure operations.
 * 🌱 Rather than growing alone, I aim to be a developer who shares knowledge and collaborates with others. To achieve this, I also run a blog where I document and share my learnings.
 
